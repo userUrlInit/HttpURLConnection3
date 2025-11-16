@@ -1,9 +1,9 @@
 {
-  "showDialog": true,
-  "latestVersionCode": 3,
-  "latestVersionName": "1.3",
-  "title": "PANICO TEAM APK UPDATE",
-  "message": "This Apk Giving Ban Please Take New Update.",
+  "showDialog": false,
+  "latestVersionCode": 5,
+  "latestVersionName": "1.5",
+  "title": "TAKE NEW APK",
+  "message": "Get the newest features and improvements.",
   "UpdateButtonText": "DOWNLOAD",
   "UpdateButtonUrl": "https://t.me/+phv2GNoK16RjNTll"
 }
