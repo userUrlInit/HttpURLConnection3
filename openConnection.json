@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "latestVersionCode": 5,
   "latestVersionName": "1.5",
-  "title": "TAKE NEW APK",
-  "message": "Get the newest features and improvements.",
+  "title": "PATCH UPDATE",
+  "message": "TAKE NEW MOD.",
   "UpdateButtonText": "DOWNLOAD",
   "UpdateButtonUrl": "https://t.me/+phv2GNoK16RjNTll"
 }
